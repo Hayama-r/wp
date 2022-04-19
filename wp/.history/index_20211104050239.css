@@ -1,0 +1,23 @@
+iframe {
+    pointer-events: none;
+}
+
+#chatLogDiv {
+    overflow: scroll;
+    resize: vertical;
+    height: 400px;
+    border: solid 1px;
+    padding: 4;
+    border-radius: 4px;
+}
+
+main {
+    width: 80%;
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
+}
+
+#vid {}
+
+#chat {}

@@ -1,0 +1,8 @@
+#chatLogDiv {
+    overflow: scroll;
+    resize: vertical;
+    height: 200px;
+    border: solid 1px;
+    padding: 4;
+    border-radius: 4px;
+}
